@@ -1,12 +1,3 @@
-:root {
---very-light-blue: var(hsl(240, 78%, 98%));
---light-blue: var(hsl(234, 14%, 74%));
---blue: var(hsl(233, 13%, 49%));
---dark-blue: var(hsl(232, 13%, 33%));
---gradient: var(linear-gradient(9deg,#a3a8f0 to #696fdd));
---font-size-body: var(15px);
-}
-
 body {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
